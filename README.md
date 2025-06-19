@@ -1,5 +1,5 @@
 # 💫 About Me:
-If I were a flower<br>You'd be the sunshine on a sunny day for me<br>Then I'd only be looking at you<br>If I could be flower<br>I'll grow up with your heart<br>My floral senses are directed at you<br>My senses are directed at you
+Hello! I'm Isaruh, a web developer.
 
 
 ## 🌐 Socials:
